@@ -1,1 +1,4 @@
 # OpenWrtPannel
+项目起始于2022年6月20日
+by：kaiyuan
+使用ssh2实现ssh连接，获取服务器信息之后交给SpringBot提供接口
